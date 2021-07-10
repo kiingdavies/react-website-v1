@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { Button } from './Button';
+import './HeroSection.css';
 
 function CardItem(props) {
   return (
@@ -16,8 +18,24 @@ function CardItem(props) {
           <div className='cards__item__info'>
             <h5 className='cards__item__text'>{props.text}</h5>
           </div>
+
+          {/* <div className='hero-btns'> */}
+          
+          <Button
+            className='btns'
+            buttonStyle='btn--primary'
+            buttonSize='btn--large'
+            onClick={console.log('hey')}
+          >
+            READ MORE    <i className='fas fa-arrow-right' />
+          </Button>
+        {/* </div> */}
+
         </Link>
+
+         
       </li>
+     
     </>
   );
 }

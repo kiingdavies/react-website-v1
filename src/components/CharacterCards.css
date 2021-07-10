@@ -1,0 +1,28 @@
+.charactercards-btns {
+    margin-top: 32px;
+    margin-bottom: 100px;
+    display: flex;
+  flex-flow: row;
+  align-items: right;
+    
+  }
+  
+  .charactercards-btns .btn {
+    margin: 6px;
+    margin-left: 60px;
+    
+  }
+  
+  /* .fa-play-circle {
+    margin-left: 4px;
+  } */
+
+  .btns {
+      margin-bottom: 32px;
+  }
+
+  .filter-view {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+  }

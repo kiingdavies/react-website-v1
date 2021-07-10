@@ -4,7 +4,13 @@
 }
 
 h1 {
-  text-align: center;
+  text-align: center;  
+}
+
+.inner {
+  width: 15%;
+  margin: auto;
+  border-bottom: 5px solid black;
 }
 
 .cards__container {
