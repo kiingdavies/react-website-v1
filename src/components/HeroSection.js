@@ -14,7 +14,7 @@ function HeroSection() {
             
             Directory
       </h1>
-      <p>Find your favorite Characters, Films, Species,</p>
+      <p>SFind your favorite Characters, Films, Species,</p>
       <p>Starships and Planets</p>
       {/* <div className='hero-btns'>
         <Button
