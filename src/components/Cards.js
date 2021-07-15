@@ -13,19 +13,19 @@ function Cards() {
             <CardItem
               src='images/starship-2.jpg'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              label='Ghost'
               path='/services'
             />
             <CardItem
               src='images/starship-1.jpg'
               text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
+              label='Correllian Scout'
               path='/products'
             />
             <CardItem
               src='images/starship-3.jpg'
               text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
+              label='Raven Claw'
               path='/sign-up'
             />
           </ul>
@@ -34,19 +34,19 @@ function Cards() {
             <CardItem
               src='images/starship-4.jpg'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
+              label='Loronar E-9 Explorer'
               path='/services'
             />
             <CardItem
               src='images/starship-5.jpg'
               text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
+              label='Loronar E-9 Explorer'
               path='/products'
             />
             <CardItem
               src='images/starship-6.jpg'
               text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
+              label='Outrider'
               path='/sign-up'
             />
             

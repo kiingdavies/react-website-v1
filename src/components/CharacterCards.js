@@ -44,14 +44,14 @@ function CharacterCards() {
           <ul className='cards__items'>
             <CardItem
               src='images/character-1.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              text='Explore the hidden waterfall deep inside the Amazon Jungle with Luke'
+              label='Luke Skywalker'
               path='/services'
             />
             <CardItem
               src='images/character-1.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              text='Travel through the Islands of Bali in a Private Cruise with Luke'
+              label='Luke Skywalker'
               path='/services'
             />
           </ul>
@@ -59,14 +59,14 @@ function CharacterCards() {
           <ul className='cards__items'>
             <CardItem
               src='images/character-2.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              text='Explore the hidden waterfall deep inside the Amazon Jungle Han Solo'
+              label='Han Solo'
               path='/services'
             />
             <CardItem
               src='images/character-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              text='Travel through the Islands of Bali in a Private Cruise with Han Solo'
+              label='Han Solo'
               path='/services'
             />
           </ul>
@@ -74,14 +74,14 @@ function CharacterCards() {
           <ul className='cards__items'>
             <CardItem
               src='images/character-3.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              text='Experience the darkside of Lord Vader'
+              label='Darth Vader'
               path='/services'
             />
             <CardItem
               src='images/character-3.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              text='Travel through the Islands of Bali in a Private Cruise with Darth Vader'
+              label='Darth Vader'
               path='/services'
             />
           </ul>
@@ -89,14 +89,14 @@ function CharacterCards() {
           <ul className='cards__items'>
             <CardItem
               src='images/character-4.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
+              text='Explore the hidden waterfall deep inside the Amazon Jungle with Lela'
+              label='Princess Lela'
               path='/services'
             />
             <CardItem
               src='images/character-4.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
-              label='Luxury'
+              text='Travel through the Islands of Bali in a Private Cruise Princess Lela'
+              label='Princess Lela'
               path='/services'
             />
           </ul>
